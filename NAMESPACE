@@ -2,6 +2,7 @@
 
 export(RS.OpenChrome)
 export(RS.OpenChrome_DisablePicture)
+export(RS.clear_text)
 export(RS.click)
 export(RS.get_Text)
 export(RS.get_attr)
